@@ -1,3 +1,4 @@
+/* @import "node_modules/@coopdigital/coop-frontend-foundations/build/coop-foundations.css"; */
 @import "node_modules/@coopdigital/foundations-vars/dist/vars.css";
 @import "node_modules/@coopdigital/foundations-global/dist/global.css";
 @import "node_modules/@coopdigital/foundations-typography/dist/typography.css";
@@ -9,3 +10,4 @@
 
 
 @import "callOut.css";
+@import "_grid.css";
