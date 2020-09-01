@@ -18,6 +18,7 @@
     "@coopdigital/foundations-tables": "^2.1.9",
     "@coopdigital/foundations-typography": "^4.1.9",
     "@coopdigital/foundations-vars": "^3.1.5",
+    "@fortawesome/fontawesome-free": "^5.14.0",
     "nodemon": "^2.0.4"
   }
 }

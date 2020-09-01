@@ -8,6 +8,10 @@
 @import "node_modules/@coopdigital/foundations-tables/dist/tables.css";
 @import "node_modules/@coopdigital/foundations-layout/dist/layout.css";
 
+@import "node_modules/@fortawesome/fontawesome-free/css/all.css";
 
-@import "callOut.css";
+
+
+@import "src/callOut.css";
 @import "_grid.css";
+@import "src/_contentBlock.css";
